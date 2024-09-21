@@ -5,8 +5,6 @@
 <br>
 <h3>Features:</h3><br>
 Two-player mode: Go head-to-head with a friend!<br>
-Single-player mode: Test your skills against a smart AI.<br>
-Responsive design: Play on any device, anytime!<br>
 Interactive interface: Enjoy a sleek and user-friendly experience.<br>
 How to Play:<br>
 Just choose your symbol, take turns, and aim for three in a row. Who will claim victory?<br>
